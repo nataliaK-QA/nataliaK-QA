@@ -9,7 +9,7 @@
 <p><strong><h2>Мои работы:</h2></strong></p>
 <li><a href="https://github.com/nataliaK-QA/Course-project">Курсовой проект к модулю «Ручное тестирование веб-приложений»</a></li>
  <li><a href="https://github.com/nataliaK-QA/Maven">Система сборки Maven</a></li>
- 
+ <li><a href="https://github.com/nataliaK-QA/Packages-and-cycles/tree/main">Пакеты и циклы</a></li>
 
 
 <!---
