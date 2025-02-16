@@ -10,6 +10,7 @@
 <li><a href="https://github.com/nataliaK-QA/Course-project">Курсовой проект к модулю «Ручное тестирование веб-приложений»</a></li>
  <li><a href="https://github.com/nataliaK-QA/Maven">Система сборки Maven</a></li>
  <li><a href="https://github.com/nataliaK-QA/Packages-and-cycles/tree/main">Пакеты и циклы</a></li>
+<li><a href="https://github.com/nataliaK-QA/Jacoco/tree/main">Jacoco, CI</a></li>
 
 
 <!---
